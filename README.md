@@ -109,7 +109,7 @@ I'm passionate about combining Artificial Intelligence, Computer Vision, Embedde
 
 # 📊 GitHub Statistics
 
-Replace `YOUR_USERNAME` below with your GitHub username.
+Replace `Anand Kumar` below with your GitHub username.
 
 ```md
 https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
