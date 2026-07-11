@@ -108,16 +108,15 @@ I'm passionate about combining Artificial Intelligence, Computer Vision, Embedde
 ---
 
 # 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandKumarTech&show_icons=true&theme=tokyonight)
 
-Replace `Anand Kumar` below with your GitHub username.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandKumarTech&layout=compact&theme=tokyonight)
 
-```md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
-https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=AnandKumarTech&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AnandKumarTech&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandKumarTech&theme=tokyo-night)
 
 ---
 
