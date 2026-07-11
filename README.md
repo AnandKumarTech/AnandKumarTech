@@ -70,7 +70,7 @@ I'm passionate about combining Artificial Intelligence, Computer Vision, Embedde
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,html,css,tailwind,vite,docker,git,github,vscode,linux"/>
+<img src=""/>
 </p>
 
 ### AI / ML
