@@ -117,7 +117,6 @@ I'm passionate about combining Artificial Intelligence, Computer Vision, Embedde
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnandKumarTech&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandKumarTech&theme=tokyo-night)
-
 ---
 
 # 📫 Contact
